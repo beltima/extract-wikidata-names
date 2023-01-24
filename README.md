@@ -2,7 +2,7 @@ extract given names from wiki data
 
 update (new to old): 
 
-in <Extract_Wiki_Data_names_try_02.ipynb>
+in <Extract_Wiki_Data_names_try_02.ipynb> -- new!!
 1. Created one function called similar_full_names to get the similar names when input is a name
 2. Proof of concept of getting real (first+last) pairs of full names from various sources, ie, politicians, athletes, singers etc. 
 3. having problems with jsondecodeerror, likely due to the server responded with a 204 No Content response, not yet fixed. 
